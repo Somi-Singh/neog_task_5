@@ -1,0 +1,104 @@
+.main_portfolio{height: 180px;
+    background-color:rgb(240, 28, 109) ;
+    padding: 16px;
+    border-bottom-left-radius: 3rem;
+}
+.name{
+    position: relative;
+    top: -40px;
+    font-size: 40px;
+}
+.h{font-size: 20px;
+    position: relative;
+    left: 1010px
+}
+.pr{font-size: 20px;
+    position: relative;
+    top: -23px;
+    left: 1090px
+
+}
+.bl{
+    font-size: 20px;
+    position: relative;
+    top: -47px;
+    left: 1190px;
+}
+.co{
+    color: rgb(250, 8, 56);
+}
+.butt{
+    color:rgb(8, 235, 235);
+}
+.button{
+    color: rgb(8, 231, 231);
+}
+.link{
+    font-size: 22px;
+    color: black;
+}
+.my_blog{
+    color: black;
+}
+.my{
+    color: rgb(247, 9, 56);
+}
+.line{
+    color: darkslateblue;
+}
+.h{
+    color: black;
+}
+.git{
+    color:blue;
+}
+.ins{
+    color: darkslateblue;
+}
+.vi{
+    color: blue;
+}
+.vis{
+    color:darkslateblue;
+}
+.gi{
+    color: blue;
+}
+.hub{
+    color: darkslateblue;
+}
+.com{
+    color: blue;
+}
+.add{
+color: darkslateblue;
+}
+.file{
+    color: blue;
+}
+.p{
+    color: blue;
+}
+.push{
+    color: darkslateblue;
+}
+.skills{
+    color: black;
+}
+.sec_link{
+    float: left;
+    margin-left: 110px;
+    margin-top: 20px;
+    
+}
+.link{
+    float: left;
+    margin-left: 450px;
+    margin-top: 20px;
+}
+.third_link{
+    float: left;
+    margin-left: 100px;
+    margin-top: 20px;
+   
+}
