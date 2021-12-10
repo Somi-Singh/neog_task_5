@@ -1,0 +1,80 @@
+.main_portfolio{height: 150px;
+    background-color:rgb(9, 204, 230) ;
+    padding: 16px;
+}
+.h{font-size: 20px;
+    position: relative;
+    left: 1010px
+}
+
+.pr{font-size: 20px;
+    position: relative;
+    top: -23px;
+    left: 1090px
+
+}
+.bl{
+    font-size: 20px;
+    position: relative;
+    top: -47px;
+    left: 1190px;
+}
+.my{
+    color: rgb(247, 37, 9);
+}
+.link{
+    font-size: 22px;
+    color: black;
+}
+.line{
+    color: rgb(55, 53, 182);
+}
+.sec_link{
+    float: left;
+    margin-left: 110px;
+    margin-top: 20px;
+    
+}
+.link{
+    float: left;
+    margin-left: 450px;
+    margin-top: 20px;
+}
+.third_link{
+    float: left;
+    margin-left: 100px;
+    margin-top: 20px;
+   
+}
+
+.butt{
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #9daf4c;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    
+}
+
+.button{
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #9daf4c;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    
+}
